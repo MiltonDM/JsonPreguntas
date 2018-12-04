@@ -12,9 +12,8 @@ Realización de varias preguntas realizadas en un JSON para poderla jalar desde 
 >Contacto: <br />
 
 #### Texto
-
-
-  | {
+  | 
+  {
    "quiz_questions":[
       {
          "id":"1",
@@ -59,7 +58,8 @@ Realización de varias preguntas realizadas en un JSON para poderla jalar desde 
          "correct_answer":"1"
       }
    ]
-} |
+} 
+|
 
 Json
 -----
