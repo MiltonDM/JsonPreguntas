@@ -27,6 +27,17 @@ Descripción.
 -	Poder ver el correo con las respuestas que el Usuario ingreso.
 
 # Servidor
+```
+Base de datos.
+CREATE TABLE IF NOT EXISTS quiz_questions(
+id bigint(20) NOT NULL AUTO_INCREMENT,
+question varchar(300) NOT NULL,
+possible_answers varchar(300) NOT NULL,
+correct_answer int(5) NOT NULL,
+PRIMARY KEY (id),
+UNIQUE KEY question (question)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+```
 
 Json
 -----
