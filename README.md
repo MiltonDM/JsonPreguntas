@@ -89,6 +89,22 @@ Json
    ]
 }
 ```
+## Limpia de construcción
+<table>
+<tr>
+<td><img src= width="225" height="270"></td>
+<td><img src= width="225" height="270"></td>
+<td><img src= width="225" height="270"></td>
+ 
+</tr>
+</table>
+
+AndroidManifest: para dar permiso de guardar y de escribir en el archivo.
+
+    >Clase: AndroidManifest
+    > 
+
+
 * * *
 ## Referencias
 **link:** https://mex.000webhost.com/<br />
