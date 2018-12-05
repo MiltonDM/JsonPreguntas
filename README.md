@@ -8,8 +8,8 @@ Realización de varias preguntas realizadas en un JSON para poderla jalar desde 
 
 ***Correo de los contactos***
 >Contacto: duran.milton.92@hotmail.com<br />
->Contacto: Contacto: d.salvador0604a@gmail.com <br />
->Contacto: Contacto: duran.milton.92@hotmail.com<br />
+>Contacto: d.salvador0604a@gmail.com <br />
+>Contacto: duran.milton.92@hotmail.com<br />
 
 Desarrollar un aplicación que realize un Test (Tema libre), que se desplieguen de forma individual para que el usuario tenga una mejor vista y se pueda contestar el forma libre, plasmar un botón(JButton) que de acceso a la siguiente pregunta o poder regresar a la anterior. 
 Al termino de las preguntas se debe de adjuntar las respuestas en el orden que se fueron mostrando en la interfaz, para así poder enviarlas de forma mas clara y organizada por medio de un correo electrónico y así evaluar las respuesta más fácil.
