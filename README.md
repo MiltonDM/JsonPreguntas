@@ -116,7 +116,7 @@ UNIQUE KEY question (question)
 </tr>
 </table>
 
-AndroidManifest: para dar permiso de guardar y de escribir en el archivo.
+AndroidManifest: para dar permiso de Internet.
 
     >Clase: AndroidManifest
     > <uses-permission android:name="android.permission.INTERNET"/>
