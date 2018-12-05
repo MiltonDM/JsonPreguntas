@@ -92,9 +92,9 @@ Json
 ## Limpia de construcción
 <table>
 <tr>
-<td><img src= width="225" height="270"></td>
-<td><img src= width="225" height="270"></td>
-<td><img src= width="225" height="270"></td>
+<td><img src=https://github.com/MiltonDM/JsonPreguntas/blob/master/Clear/Sin_Limpiar.png width="225" height="270"></td>
+<td><img src=https://github.com/MiltonDM/JsonPreguntas/blob/master/Clear/Clear.png width="225" height="270"></td>
+<td><img src=https://github.com/MiltonDM/JsonPreguntas/blob/master/Clear/.png width="225" height="270"></td>
  
 </tr>
 </table>
