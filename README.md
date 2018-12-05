@@ -104,7 +104,7 @@ Json
 <table>
 <tr>
 <td><img src=https://github.com/MiltonDM/JsonPreguntas/blob/master/Clear/Sin_Limpiar.png width="225" height="270"></td>
-<td><img src=https://github.com/MiltonDM/JsonPreguntas/blob/master/Clear/Captura%20de%20pantalla%20(189).png width="270" height="270"></td>
+<td><img src=https://github.com/MiltonDM/JsonPreguntas/blob/master/Clear/Captura%20de%20pantalla%20(189).png width="290" height="270"></td>
 <td><img src=https://github.com/MiltonDM/JsonPreguntas/blob/master/Clear/Clear.png width="225" height="270"></td>
    
  
