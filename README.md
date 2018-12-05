@@ -42,8 +42,7 @@ UNIQUE KEY question (question)
 ```
 * * *
 ***Servidor que usamos para subir el Json***
-## mex.000webhost
-**link:** https://mex.000webhost.com
+mex.000webhost
 
 # Json
 -----
@@ -126,5 +125,4 @@ AndroidManifest: para dar permiso de guardar y de escribir en el archivo.
 * * *
 ## Referencias
 **link:** https://mex.000webhost.com <br />
-**link:** https://mex.000webhost.com/<br />
 **link:** https://jsonformatter.curiousconcept.com//<br />
