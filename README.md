@@ -11,12 +11,14 @@ Realización de varias preguntas realizadas en un JSON para poderla jalar desde 
 >Contacto: d.salvador0604a@gmail.com <br />
 >Contacto: themarka@live.com.mx<br />
 
+* * *
+
 Desarrollar un aplicación que realize un Test (Tema libre), que se desplieguen de forma individual para que el usuario tenga una mejor vista y se pueda contestar el forma libre, plasmar un botón(JButton) que de acceso a la siguiente pregunta o poder regresar a la anterior. 
 Al termino de las preguntas se debe de adjuntar las respuestas en el orden que se fueron mostrando en la interfaz, para así poder enviarlas de forma mas clara y organizada por medio de un correo electrónico y así evaluar las respuesta más fácil.
 Cada pregunta de opción múltiple que se vea reflejada, solo se podrá seleccionar una opción para una mejor puntuación.
 Todas la respuestas que se estén ingresando al formulario deberán estar almacenadas en un JSON en el orden que este los almacena. (Atributos, arreglos).
 
-Descripción.
+##Descripción.
 -	Presentar test tema libre.
 -  crear base de datos con php.
 -  donde arrojara los datos en formato de JSON.
@@ -38,8 +40,8 @@ PRIMARY KEY (id),
 UNIQUE KEY question (question)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 ```
-
-Json
+* * *
+#Json
 -----
 ```
 {
@@ -99,12 +101,12 @@ Json
 <td><img src= https://github.com/MiltonDM/JsonPreguntas/blob/master/Resultado/Screenshot_5.png width="200" height="300"></td>
 </tr>
 </table>
-
+* * *
 ## Limpia de construcción
 <table>
 <tr>
 <td><img src=https://github.com/MiltonDM/JsonPreguntas/blob/master/Clear/Sin_Limpiar.png width="225" height="270"></td>
-<td><img src=https://github.com/MiltonDM/JsonPreguntas/blob/master/Clear/Captura%20de%20pantalla%20(189).png width="315" height="270"></td>
+<td><img src=https://github.com/MiltonDM/JsonPreguntas/blob/master/Clear/Captura%20de%20pantalla%20(189).png width="335" height="270"></td>
 <td><img src=https://github.com/MiltonDM/JsonPreguntas/blob/master/Clear/Clear.png width="225" height="270"></td>
    
  
@@ -114,7 +116,7 @@ Json
 AndroidManifest: para dar permiso de guardar y de escribir en el archivo.
 
     >Clase: AndroidManifest
-    > 
+    > <uses-permission android:name="android.permission.INTERNET"/>
 
 
 * * *
