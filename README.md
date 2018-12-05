@@ -11,6 +11,21 @@ Realización de varias preguntas realizadas en un JSON para poderla jalar desde 
 >Contacto:  <br />
 >Contacto: <br />
 
+Desarrollar un aplicación que realize un Test (Tema libre), que se desplieguen de forma individual para que el usuario tenga una mejor vista y se pueda contestar el forma libre, plasmar un botón(JButton) que de acceso a la siguiente pregunta o poder regresar a la anterior. 
+Al termino de las preguntas se debe de adjuntar las respuestas en el orden que se fueron mostrando en la interfaz, para así poder enviarlas de forma mas clara y organizada por medio de un correo electrónico y así evaluar las respuesta más fácil.
+Cada pregunta de opción múltiple que se vea reflejada, solo se podrá seleccionar una opción para una mejor puntuación.
+Todas la respuestas que se estén ingresando al formulario deberán estar almacenadas en un JSON en el orden que este los almacena. (Atributos, arreglos).
+
+Descripción.
+-	Presentar test tema libre.
+-  crear base de datos con php.
+-  donde arrojara los datos en formato de JSON.
+-	Hacer uso de todos los dispositivos necesarios para una mejor vista para el usuario (JButton, EditText, RadioGroup, RadioButton, etc).
+-	Cada pregunta que sea de opción múltiple, deberá de solo responder 1 respuesta de las opciones que se especifiquen.
+-	Presentar dos botones que tengan la función de siguiente pregunta o pregunta anterior.
+-	Adjuntar las respuestas y enviarlas por automático por correo electrónico en texto plano.
+-	Poder ver el correo con las respuestas que el Usuario ingreso.
+
 Json
 -----
 ```
