@@ -26,6 +26,8 @@ Descripción.
 -	Adjuntar las respuestas y enviarlas por automático por correo electrónico en texto plano.
 -	Poder ver el correo con las respuestas que el Usuario ingreso.
 
+# Servidor
+
 Json
 -----
 ```
@@ -78,5 +80,5 @@ Json
 ```
 * * *
 ## Referencias
-**link:** http://panamahitek.com/arduino-java-facil-y-rapido/<br />
+**link:** https://mex.000webhost.com/<br />
 **link:** http://panamahitek.com/libreria-panamahitek_arduino/<br />
