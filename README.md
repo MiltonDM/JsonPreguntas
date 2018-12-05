@@ -9,7 +9,7 @@ Realización de varias preguntas realizadas en un JSON para poderla jalar desde 
 ***Correo de los contactos***
 >Contacto: duran.milton.92@hotmail.com<br />
 >Contacto: d.salvador0604a@gmail.com <br />
->Contacto: duran.milton.92@hotmail.com<br />
+>Contacto: <br />
 
 Desarrollar un aplicación que realize un Test (Tema libre), que se desplieguen de forma individual para que el usuario tenga una mejor vista y se pueda contestar el forma libre, plasmar un botón(JButton) que de acceso a la siguiente pregunta o poder regresar a la anterior. 
 Al termino de las preguntas se debe de adjuntar las respuestas en el orden que se fueron mostrando en la interfaz, para así poder enviarlas de forma mas clara y organizada por medio de un correo electrónico y así evaluar las respuesta más fácil.
@@ -26,7 +26,7 @@ Descripción.
 -	Adjuntar las respuestas y enviarlas por automático por correo electrónico en texto plano.
 -	Poder ver el correo con las respuestas que el Usuario ingreso.
 
-# Servidor
+# Base de datos
 ```
 Base de datos.
 CREATE TABLE IF NOT EXISTS quiz_questions(
@@ -92,4 +92,4 @@ Json
 * * *
 ## Referencias
 **link:** https://mex.000webhost.com/<br />
-**link:** http://panamahitek.com/libreria-panamahitek_arduino/<br />
+**link:** https://jsonformatter.curiousconcept.com//<br />
